@@ -1,3 +1,7 @@
 #HFSS script in VBscript
-trying to do each component separatly, and can be modulized
-add_fline is verified
+
+Trying to do each component separatly, and can be modulized
+
+1,add_fline is verified
+
+2,add_port is verfied
